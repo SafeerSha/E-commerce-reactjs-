@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import background from "../pages/back.png";
+
 
 const Container = styled.div`
 width:100vw;
